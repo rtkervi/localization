@@ -1,0 +1,2 @@
+# localization
+Simple localization example
